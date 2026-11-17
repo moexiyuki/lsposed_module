@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LSPosed Module Template</string>
+    <string name="app_description">Material 3 + Compose module template targeting Xposed API 102</string>
+</resources>
