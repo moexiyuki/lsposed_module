@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.example.lsposed"
-    compileSdk = 36
+    compileSdk = 37
     buildToolsVersion = "35.0.0"
 
     defaultConfig {
